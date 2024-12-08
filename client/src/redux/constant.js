@@ -1,6 +1,6 @@
 
-export const BASE_URL = "http://localhost:4000/api"
-export const PROFILE_URL = "http://localhost:4000"
+export const BASE_URL = "https://product-cart-xn95.onrender.com/api"
+export const PROFILE_URL = "https://product-cart-xn95.onrender.com"
 export const REGISTER_REQUEST="REGISTER_REQUEST"
 export const REGISTER_SUCCESS="REGISTER_SUCCESS"
 export const REGISTER_FAILURE="REGISTER_FAILURE"
